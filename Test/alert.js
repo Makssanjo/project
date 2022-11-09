@@ -1,6 +1,6 @@
 "use strict";
 
-const pov = 173;
+
 
 // if(pov > 180){
 //     console.log( "Error");
